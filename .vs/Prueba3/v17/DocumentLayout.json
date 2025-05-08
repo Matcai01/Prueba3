@@ -84,7 +84,11 @@
               "RelativeDocumentMoniker": "CPrueba3\\Program.cs",
               "ToolTip": "C:\\Users\\Mat\\Desktop\\SISTEMAS DE INFORMACION\\CAI CONSTRUCCION DE APLICACIONES INFORMATICAS\\GitH\\Prueba3\\CPrueba3\\Program.cs",
               "RelativeToolTip": "CPrueba3\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+=======
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBAAAAAJAAAAAAAAAA==",
+>>>>>>> c8122af25f1e626741c31ef525db8eb948b894c3
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T20:04:07.677Z",
               "EditorCaption": ""
