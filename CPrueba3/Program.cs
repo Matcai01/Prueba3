@@ -14,7 +14,8 @@ namespace CPrueba3
             Console.WriteLine("Ta complicado git eh");
             Console.WriteLine("Subo un cambio");
             Console.WriteLine("Prueba de commit 1");
-            Console.WriteLine("Prueba de commit mio 2 ")
+            Console.WriteLine("Prueba de commit mio 2 ");
+            Console.WriteLine("Prueba pull request");
         }
     }
 }
